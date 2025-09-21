@@ -1,0 +1,40 @@
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Found the following certs:
+  Certificate Name: echo.jkurapati.com
+    Serial Number: 5dbdc4e26f54eb522c9194bc5c95a5950e3
+    Key Type: ECDSA
+    Domains: echo.jkurapati.com
+    Expiry Date: 2025-09-18 13:26:55+00:00 (INVALID: EXPIRED)
+    Certificate Path: /etc/letsencrypt/live/echo.jkurapati.com/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/echo.jkurapati.com/privkey.pem
+  Certificate Name: ha.jkurapati.com
+    Serial Number: 6ddece0247ac949c2629543fa24fca30056
+    Key Type: ECDSA
+    Domains: ha.jkurapati.com
+    Expiry Date: 2025-09-18 13:27:01+00:00 (INVALID: EXPIRED)
+    Certificate Path: /etc/letsencrypt/live/ha.jkurapati.com/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/ha.jkurapati.com/privkey.pem
+  Certificate Name: immich.jkurapati.com
+    Serial Number: 638136579030357d50b7e20f7dce67e8d70
+    Key Type: RSA
+    Domains: immich.jkurapati.com
+    Expiry Date: 2025-09-18 13:27:08+00:00 (INVALID: EXPIRED)
+    Certificate Path: /etc/letsencrypt/live/immich.jkurapati.com/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/immich.jkurapati.com/privkey.pem
+  Certificate Name: jkurapati.com
+    Serial Number: 63d5e783e5409eeff25e481b98b7aa4f20b
+    Key Type: ECDSA
+    Domains: jkurapati.com
+    Expiry Date: 2025-09-18 13:27:16+00:00 (INVALID: EXPIRED)
+    Certificate Path: /etc/letsencrypt/live/jkurapati.com/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/jkurapati.com/privkey.pem
+  Certificate Name: notify.jkurapati.com
+    Serial Number: 6bf581b1f7dba7e82c59be346b8269b255c
+    Key Type: RSA
+    Domains: notify.jkurapati.com
+    Expiry Date: 2025-09-18 13:27:23+00:00 (INVALID: EXPIRED)
+    Certificate Path: /etc/letsencrypt/live/notify.jkurapati.com/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/notify.jkurapati.com/privkey.pem
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
